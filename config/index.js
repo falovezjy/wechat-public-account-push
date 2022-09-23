@@ -85,10 +85,8 @@ export const USER_CONFIG = {
         {"type": "节日", "name": "被搭讪纪念日", "year": "2022", "date": "09-09"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
-      customizedDateList: [
-      ]
-    },
-    {
+      customizedDateList: []
+
       name: "老婆1",
       id: "",
       useTemplateId: "",
