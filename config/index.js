@@ -62,7 +62,7 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "张嘉怡",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "omlYI6MWdFBmcjEUTABr9KInp_MI",
+      id: "omlYI6MWdFBmcjEUTABr9KInp_MI","omlYI6OxMT9K2cUdnCcxVYsMnJ_8",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "8XGu8lRO0RsluTAkELeoWAZLgGBx5SsiHeSIVDQpwR4",
       // 所在省份
